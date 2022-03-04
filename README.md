@@ -1,4 +1,4 @@
-# Segmentation-From-Hierarchy
+# Hierarchy-Based Segmentation
 Python implementation of the paper "Supervised assessment of hierarchical region-based image representations"
 
 ## Usage
