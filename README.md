@@ -1,2 +1,40 @@
 # Segmentation-From-Hierarchy
-Code for the paper "Supervised assessment of hierarchical region-based image representations"
+Python implementation of the paper "Supervised assessment of hierarchical region-based image representations"
+
+## Usage
+
+A Jupyter notebook [`src/Interactive.ipynb`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/src/Interactive.ipynb) contains the user-friendly code for running the experiments given in the paper. 
+
+All helper scripts and implementation of the auxiliary algorithms are given in the [`src`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/src/) directory
+
+## Using your own data
+You can easily load your custom images in the interactive notebook
+
+To generate your own superpixels and to generate your own gradient images, you can use the scripts in [`Helper_Scripts`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/Helper_Scripts/)
+
+```
+cd Helper_Scripts
+bash run_all_slic.sh
+bash run_hed_all.sh
+```
+
+## Requirements
+```
+numpy=1.16.4
+higra=0.5.3
+numba=0.51.2
+scikit-learn=0.20.3
+scipy=1.5.2
+matplotlib=3.3.2
+opencv-contrib-python=4.1.2.30
+```
+
+## Cite
+Please cite our paper if you use the code or ideas in your own work
+```
+@article{}
+```
+
+## Contact
+For any communication related to the code or the paper, feel free to contact me at ritvikvij06@gmail.com
+
