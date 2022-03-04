@@ -3,7 +3,6 @@ from numba import jit,njit
 import cv2
 import time
 import higra as hg
-import multiprocessing
 import sys, os
 import scipy
 from numba_functions import *

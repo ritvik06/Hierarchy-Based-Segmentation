@@ -1,6 +1,4 @@
 import numpy as np
-import matplotlib.pyplot as plt
-from skimage.transform import resize
 import imageio
 import cv2
 import sys, os
