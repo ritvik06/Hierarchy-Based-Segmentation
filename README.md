@@ -7,6 +7,8 @@ A Jupyter notebook [`src/Interactive.ipynb`](https://github.com/ritvik06/Hierarc
 
 All helper scripts and implementation of the auxiliary algorithms are given in the [`src`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/src/) directory
 
+The data is placed in the [`data`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/data/) directory. The HED gradient images are in [`HED`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/HED/) and SLIC superpixels are stored in [`SLIC`](https://github.com/ritvik06/Hierarchy-Based-Segmentation/blob/main/SLIC/)
+
 ## Using your own data
 You can easily load your custom images in the interactive notebook
 
