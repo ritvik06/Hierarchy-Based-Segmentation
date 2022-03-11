@@ -1,5 +1,5 @@
 # Hierarchy-Based-Segmentation
-Python implementation of our paper "Supervised assessment of hierarchical region-based image representations"
+Python implementation of our paper "Assessing hierarchies by their consistent segmentations"
 
 ## Usage
 
