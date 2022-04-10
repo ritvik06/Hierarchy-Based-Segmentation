@@ -1,5 +1,5 @@
 # Hierarchy-Based-Segmentation
-Python implementation of our paper "Assessing hierarchies by their consistent segmentations".
+Python implementation of our paper ["Assessing hierarchies by their consistent segmentations"](https://hal.archives-ouvertes.fr/hal-03633805).
 
 Authors : Zeev Gutman, Ritvik Vij, Laurent Najman, Michael Lindenbaum
 
