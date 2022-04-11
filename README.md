@@ -35,13 +35,17 @@ opencv-contrib-python=4.1.2.30
 ## Cite
 Please cite our paper if you use the code or ideas in your own work
 ```
-@article{gutman22,
-  author = {Zeev Gutman and Ritvik Vij and Laurent Najman and Michael Lindenbaum},
-  title = {Assessing hierarchies by their consistent segmentations},
-  journal = {HAL preprint HAL:hal-03633805},
-  year = {2022}
+@unpublished{gutman:hal-03633805,
+  TITLE = {{Assessing hierarchies by their consistent segmentations}},
+  AUTHOR = {Gutman, Zeev and Vij, Ritvik and Najman, Laurent and Lindenbaum, Michael},
+  URL = {https://hal.archives-ouvertes.fr/hal-03633805},
+  NOTE = {working paper or preprint},
+  YEAR = {2022},
+  MONTH = Apr,
+  PDF = {https://hal.archives-ouvertes.fr/hal-03633805/file/hierarchy_based_segmentation.pdf},
+  HAL_ID = {hal-03633805},
+  HAL_VERSION = {v1},
 }
-
 ```
 
 ## Contact
